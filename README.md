@@ -5,7 +5,7 @@ Material desenvolvido para aprendizado de EarthEngine utilizando Python. Os arqu
 Desenvolvido por:
 
 Leonardo Laipelt dos Santos
-Engenharia Ambiental - Universidade Federal do Rio Grande do Sul (UFRGS); \n
+Engenharia Ambiental - Universidade Federal do Rio Grande do Sul (UFRGS); <br>
 Grupo de Pesquisa - Hidrologia de Grande Escala (HGE);
 
 Data de criação: 9/10/2019
