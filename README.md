@@ -6,6 +6,6 @@ Desenvolvido por:
 
 Leonardo Laipelt dos Santos
 Engenharia Ambiental - Universidade Federal do Rio Grande do Sul (UFRGS)
-Grupo de Pesquisas - Hidrologia de Grande Escala (HGE)
+Grupo de Pesquisa - Hidrologia de Grande Escala (HGE)
 
 Data de criação: 9/10/2019
