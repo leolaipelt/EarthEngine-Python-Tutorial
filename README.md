@@ -12,7 +12,7 @@ Material desenvolvido para aprendizado de EarthEngine utilizando Python. Os arqu
 * Operações com Reducer (em Desenvolvimento)
 * Mexendo com imagens Landsat 
 * Utilizando o MapBiomas 
-* Exportando (em Desenvolvimento)
+* Exportando 
 
 ## Instalação:
 
