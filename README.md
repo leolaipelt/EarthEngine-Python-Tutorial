@@ -14,6 +14,25 @@ Material desenvolvido para aprendizado de EarthEngine utilizando Python. Os arqu
 * Utilizando o MapBiomas 
 * Exportando (em Desenvolvimento)
 
+## Instalação:
+
+### Usando desktop
+```
+# pip install earthengine 
+```
+### Usando Google Colab
+
+```
+# !pip install earthengine 
+```
+### Autorização
+```
+# import ee; ee.Authenticate()
+```
+### Iniciando
+```
+# ee.Initialize()
+```
 ## Desenvolvido por:
 
 Leonardo Laipelt dos Santos <br>
