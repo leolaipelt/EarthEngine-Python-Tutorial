@@ -18,20 +18,20 @@ Material desenvolvido para aprendizado de EarthEngine utilizando Python. Os arqu
 
 ### Usando desktop
 ```
-# pip install earthengine 
+ pip install earthengine 
 ```
 ### Usando Google Colab
 
 ```
-# !pip install earthengine 
+ !pip install earthengine 
 ```
 ### Autorização
 ```
-# import ee; ee.Authenticate()
+ import ee; ee.Authenticate()
 ```
 ### Iniciando
 ```
-# ee.Initialize()
+ ee.Initialize()
 ```
 ## Desenvolvido por:
 
