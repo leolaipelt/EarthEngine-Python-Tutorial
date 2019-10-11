@@ -10,8 +10,8 @@ Material desenvolvido para aprendizado de EarthEngine utilizando Python. Os arqu
 * Operações Matemáticas
 * Operações Condicionais 
 * Operações com Reducer (em Desenvolvimento)
-* Mexendo com imagens Landsat (em Desenvolvimento)
-* Utilizando o MapBiomas (em Desenvolvimento)
+* Mexendo com imagens Landsat 
+* Utilizando o MapBiomas 
 * Exportando (em Desenvolvimento)
 
 ## Desenvolvido por:
