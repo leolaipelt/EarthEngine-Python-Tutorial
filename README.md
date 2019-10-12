@@ -9,10 +9,11 @@ Material desenvolvido para aprendizado de EarthEngine utilizando Python. Os arqu
 * Introdução à Image, ImageCollection, Feature, Feature Collection
 * Operações Matemáticas
 * Operações Condicionais 
-* Operações com Reducer (em Desenvolvimento)
+* Operações com Reducer 
 * Mexendo com imagens Landsat 
 * Utilizando o MapBiomas 
-* Exportando 
+* Exportando
+* (Em desenvolvimento...)
 
 ## Instalação:
 
