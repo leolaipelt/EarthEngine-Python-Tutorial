@@ -23,7 +23,7 @@ Material desenvolvido para aprendizado de EarthEngine utilizando Python. Os arqu
 ### Usando Google Colab
 
 ```
- !pip install earthengine 
+ !pip install earthengine-api 
 ```
 ### Autorização
 ```
